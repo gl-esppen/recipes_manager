@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Created by https://www.gitignore.io/api/macos,python
 
@@ -29,6 +30,8 @@ Temporary Items
 .apdisk
 
 ### Python ###
+=======
+>>>>>>> b87ac2c9f3c604b03d0d16db1122c84bf17839c8
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -74,7 +77,11 @@ htmlcov/
 .cache
 nosetests.xml
 coverage.xml
+<<<<<<< HEAD
 *,cover
+=======
+*.cover
+>>>>>>> b87ac2c9f3c604b03d0d16db1122c84bf17839c8
 .hypothesis/
 
 # Translations
@@ -128,4 +135,9 @@ ENV/
 # mkdocs documentation
 /site
 
+<<<<<<< HEAD
 # End of https://www.gitignore.io/api/macos,python
+=======
+# mypy
+.mypy_cache/
+>>>>>>> b87ac2c9f3c604b03d0d16db1122c84bf17839c8
